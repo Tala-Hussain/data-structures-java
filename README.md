@@ -3,11 +3,17 @@
 Implementations of common data structures in Java for learning and practice.
 
 ## Implemented
-- Linked List (Generic)
+
+* Linked List (Generic)
+* Stack
 
 ## Structure
+
 src/
-- linkedlist/LinkedList.java
+
+* linkedlist/LinkedList.java
 
 ## Author
+
 Tala Hussain
+
